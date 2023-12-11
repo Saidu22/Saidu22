@@ -1,0 +1,29 @@
+```html
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>MISBS</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="alternate" type="application/rss+xml" title="EduERP RSS" href="https://mis.misbs.grp.isl.ng/rss.xml">
+    <link type="text/css" rel="stylesheet" media="all" href="https://mis.misbs.grp.isl.ng/sites/default/files/css/css_0bae269138f378047659bdff9d007752.css">
+    <link type="text/css" rel="stylesheet" media="all" href="https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/grid16-fluid.css?2">
+    <!--[if IE 8]>
+    <link type="text/css" rel="stylesheet" media="all" href="https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?2" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link type="text/css" rel="stylesheet" media="all" href="https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?2" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+    <link type="text/css" rel="stylesheet" media="all" href="https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?2"/>
+    <![endif]-->
+    <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "AjaxLoad": { "css": [ "https://mis.misbs.grp.isl.ng/modules/node/node.css", "https://mis.misbs.grp.isl.ng/modules/system/defaults.css", "https://mis.misbs.grp.isl.ng/modules/system/system.css", "https://mis.misbs.grp.isl.ng/modules/system/system-menus.css", "https://mis.misbs.grp.isl.ng/modules/user/user.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/cck/theme/content-module.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ckeditor/ckeditor.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ctools/css/ctools.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/date/date.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/filefield/filefield.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/glossary/glossary.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_attribute/uc_attribute.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_order/uc_order.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_product/uc_product.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_roles/uc_roles.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_store/uc_store.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/views/css/views.css", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/style.css", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/typography.css", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/superfish.css", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/superfish-navbar.css", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/css/superfish-vertical.css" ], "scripts": [ "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/jquery_update/replace/jquery.min.js", "https://mis.misbs.grp.isl.ng/misc/drupal.js", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ajax_load/ajax_load.js", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/google_analytics/googleanalytics.js", "https://mis.misbs.grp.isl.ng/sites/all/modules/contrib/ubercart/uc_roles/uc_roles.js", "https://mis.misbs.grp.isl.ng/sites/all/modules/eduerp/student/student.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/jquery.bgiframe.min.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/hoverIntent.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/supposition.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/supersubs.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/superfish.js", "https://mis.misbs.grp.isl.ng/sites/all/themes/fusion/fusion_core/js/script.js" ] } });
+      //--><!]]>
+    </script>
+  </head>
+  <body id="pid-node" class="front not-logged-in page-node no-sidebars layout-first-main-last sidebars-split font-size-13 grid-type-fluid grid-width-16 fluid-100">
+    <!-- ... (rest of the code remains unchanged) ... -->
+  </body>
+</html>
+```
